@@ -10,6 +10,7 @@ languages:
 - json
 ---
 # Azure Function App Hosted on Windows Consumption Plan
+# TEST
 
 This sample Azure Resource Manager template deploys an Azure Function App on Windows Consumption plan and required resource including ZipDeploy extension to mount zip package for deployment.
 
